@@ -1,9 +1,9 @@
 # ML-Project-Implementation
 
 ### Tool you have to install:-
-1.Anaconda: https://www.anaconda.com/
-2.Vs code: https://code.visualstudio.com/download
-3.Git: https://git-scm.com/
+1. Anaconda: https://www.anaconda.com/
+2. Vs code: https://code.visualstudio.com/download
+3. Git: https://git-scm.com/
 
 ### Database used:
 - MongoDB: https://account.mongodb.com/account/login
