@@ -1,5 +1,17 @@
 # ML-Project-Implementation
 
+### Tool you have to install:-
+1.Anaconda: https://www.anaconda.com/
+2.Vs code: https://code.visualstudio.com/download
+3.Git: https://git-scm.com/
+
+### Database used:
+- MongoDB: https://account.mongodb.com/account/login
+
+
+
+### Hou to run
+
 ```bash
 git clone https://github.com/souravstack/ML-Project-Implementation
 ```
