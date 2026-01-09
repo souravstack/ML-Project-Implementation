@@ -12,6 +12,18 @@
 - Kaggle: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 
+
+## Workflow
+
+1. constant
+2. config_entity
+3. artifact_entity
+4. component
+5. pipeline
+6. app.py / demo,py
+
+
+
 ### Hou to run
 
 ```bash
@@ -26,3 +38,11 @@ conda activate visa
 ```bash
 pip install -r requirements.txt
 ```
+
+### Export the environment file
+
+```bash
+
+export MONGODB_URL="mongodb+srv://entbappy:entbappy@cluster0.3lowor9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+```
+
