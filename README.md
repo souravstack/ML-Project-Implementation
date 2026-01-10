@@ -43,6 +43,6 @@ pip install -r requirements.txt
 
 ```bash
 
-export MONGODB_URL="mongodb+srv://entbappy:entbappy@cluster0.3lowor9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGODB_URL="mongodb+srv://souravahmed319_db_user:souravahmed319_db_user@cluster0.wkqe0fm.mongodb.net/?appName=Cluster0"
 ```
 
